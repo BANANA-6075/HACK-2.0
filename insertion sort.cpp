@@ -1,4 +1,4 @@
-//9. Write a C++ program to implement Insertion Sort.
+//9. Write a C++ program to implement Insertion Sort
 
 #include <iostream.h >
 #include <conio.h >
