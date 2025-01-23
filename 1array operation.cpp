@@ -1,4 +1,4 @@
-//Write a menu driven go program to perform Array Operation
+//Write a menu driven go program to perform Array Operation.
 
 #include <iostream.h>
 #include <conio.h>
